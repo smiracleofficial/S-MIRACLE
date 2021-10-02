@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *Bot : PIKACHU
 *Githublink (Setup)  :    https://github.com/smiracleofficial/pikachu*
 *Audio commads :   https://github.com/smiracleofficial/pikachu/tree/master/uploads*
-*Sticker commads : https://github.com/smiracleofficial/pikachu/tree/master/uploads*
+*Sticker commads :  https://github.com/smiracleofficial/pikachu/tree/master/uploads*
 `}) 
 
 }));
