@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+SAHADSMIRACLE;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+smiracle+WA+Bot+repo;Created+by+SAHADSMIRACLE;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,7 +14,7 @@
 <a href="#"><img title="SAHAD S MIRACLE" src="https://img.shields.io/badge/SAHADSMIRACLE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/smiracleofficial"><img title="Author" src="https://img.shields.io/badge/Author-smiracleofficialsmiracleofficial/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/smiracleofficial"><img title="Author" src="https://img.shields.io/badge/Author-smiracleofficialsmiracleofficial/smiracle?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/smiracleofficial">SAHAD S MIRACLE
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smiracleofficial&show_icons=true&theme=dark&locale=en" alt="smiracleofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smiracleofficial&theme=dark" alt="smiracleofficial" /></p>
 </p>
 
 
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click smiracle logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -70,7 +70,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/smiracleofficial/smiracle.git)
      </div>
 <br>
 <br >
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/smiracleofficial/pikachu
-$ cd pikachu
+$ git clone https://github.com/smiracleofficial/smiracle
+$ cd smiracle
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/smiracleofficial/pikachu
-$ cd pikachu
+$ git clone https://github.com/smiracleofficial/smiracle
+$ cd smiracle
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,8 +114,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+Absolutely, smiracle executives do not accept responsibility.
+By establishing the smiracle, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
