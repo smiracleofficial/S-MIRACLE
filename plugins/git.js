@@ -20,10 +20,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Ameer Suhail*
 *Creator : S MIRACLE | DARK WHITE
-*Bot : PIKACHU
-*Githublink (Setup)  :    https://github.com/smiracleofficial/pikachu*
-*Audio commads :   https://github.com/smiracleofficial/pikachu/tree/master/uploads*
-*Sticker commads :  https://github.com/smiracleofficial/pikachu/tree/master/uploads*
+*Bot : WHITSPARROW
+*Githublink (Setup)  :    https://github.com/smiracleofficial/whitesparrow*
+*Audio commads :   https://github.com/smiracleofficial/whitesparrow/tree/master/uploads*
+*Sticker commads :  https://github.com/smiracleofficial/whitesparrow/tree/master/uploads*
 `}) 
 
 }));
